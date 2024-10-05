@@ -56,4 +56,4 @@ If you want it to automatically create a text file for the encrypted text and al
 
 ### License
 
-[MIT License](https://github.com/IgorDGomes/Encryption-Decryption/blob/main/LICENSE)
+[MIT License](https://github.com/Somebodyy000/Encryption-Decryption/blob/main/LICENSE)
